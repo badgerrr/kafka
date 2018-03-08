@@ -1,0 +1,1 @@
+{"schema":"iglu:uk.co.simplybusiness/pooka_entity/jsonschema/1-0-0","data":{"id":"123","entity":"chopin_policy_chain_entries","version":1,"source":"chopin","payload":{"id":"123","policy_chain_id":"123","policy_id":"123","policy_source_system":"chopin","position_in_chain":1},"published_at":"2018-03-07T10:40:00.110292Z"}}
